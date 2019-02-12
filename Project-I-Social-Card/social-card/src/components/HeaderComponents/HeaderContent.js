@@ -10,3 +10,5 @@ const HeaderContent = () =>{
         </p>
     )
 }
+
+export default HeaderContent;
